@@ -1,4 +1,4 @@
-# test-flops
+# cuda-feature
 ```
 git clone https://github.com/whattahwi/test-flops.git
 cd test-flops && make
